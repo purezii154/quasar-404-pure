@@ -1,0 +1,1 @@
+# quasar-404-pure
